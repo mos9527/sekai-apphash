@@ -21,11 +21,11 @@ You can pull JSON values with the following links or use the markdown links to v
 
 |Region|JSON|Markdown|
 |---|---|---|
-|JP|[apphash.json](https://raw.githubusercontent.com/mos9527/sekai-apphash/refs/heads/master/jp/apphash.json)|[apphash.md](https://raw.githubusercontent.com/mos9527/sekai-apphash/refs/heads/master/jp/apphash.md)|
-|EN|[apphash.json](https://raw.githubusercontent.com/mos9527/sekai-apphash/refs/heads/master/en/apphash.json)|[apphash.md](https://raw.githubusercontent.com/mos9527/sekai-apphash/refs/heads/master/en/apphash.md)|
-|CN|[apphash.json](https://raw.githubusercontent.com/mos9527/sekai-apphash/refs/heads/master/cn/apphash.json)|[apphash.md](https://raw.githubusercontent.com/mos9527/sekai-apphash/refs/heads/master/cn/apphash.md)|
-|TW|[apphash.json](https://raw.githubusercontent.com/mos9527/sekai-apphash/refs/heads/master/tw/apphash.json)|[apphash.md](https://raw.githubusercontent.com/mos9527/sekai-apphash/refs/heads/master/tw/apphash.md)|
-|KR|[apphash.json](https://raw.githubusercontent.com/mos9527/sekai-apphash/refs/heads/master/kr/apphash.json)|[apphash.md](https://raw.githubusercontent.com/mos9527/sekai-apphash/refs/heads/master/kr/apphash.md)|
+|JP|[Link](https://raw.githubusercontent.com/mos9527/sekai-apphash/refs/heads/master/jp/apphash.json)|[Link](https://github.com/mos9527/sekai-apphash/blob/master/jp/apphash.md)|
+|EN|[Link](https://raw.githubusercontent.com/mos9527/sekai-apphash/refs/heads/master/en/apphash.json)|[Link](https://github.com/mos9527/sekai-apphash/blob/master/en/apphash.md)|
+|CN|[Link](https://raw.githubusercontent.com/mos9527/sekai-apphash/refs/heads/master/cn/apphash.json)|[Link](https://github.com/mos9527/sekai-apphash/blob/master/cn/apphash.md)|
+|TW|[Link](https://raw.githubusercontent.com/mos9527/sekai-apphash/refs/heads/master/tw/apphash.json)|[Link](https://github.com/mos9527/sekai-apphash/blob/master/tw/apphash.md)|
+|KR|[Link](https://raw.githubusercontent.com/mos9527/sekai-apphash/refs/heads/master/kr/apphash.json)|[Link](https://github.com/mos9527/sekai-apphash/blob/master/kr/apphash.md)|
 
 # References
 https://github.com/mos9527/sssekai/
