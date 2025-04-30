@@ -1,8 +1,8 @@
 {
     "package": "com.pjsekai.kr",
     "reported_package": "com.sega.pjsekai",
-    "app_hash": "a3015fe8-785f-27e1-fb8b-546a23c82c1f",
+    "app_hash": "41fd71f2-f715-bc10-5852-0a9d8542f760",
     "app_region": "kr",
-    "app_version": "3.4.1",
-    "ab_version": "3.4.0"
+    "app_version": "4.1.1",
+    "ab_version": "4.1.0"
 }

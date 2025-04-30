@@ -1,14 +1,14 @@
-com.pjsekai.kr (3.4.1, kr)
+com.pjsekai.kr (4.1.1, kr)
 ---
 Reported Package: com.sega.pjsekai
 
 |                                        app_hash|   app_region|  app_version|   ab_version|
 |------------------------------------------------|-------------|-------------|-------------|
-|            a3015fe8-785f-27e1-fb8b-546a23c82c1f|           kr|        3.4.1|        3.4.0|
+|            41fd71f2-f715-bc10-5852-0a9d8542f760|           kr|        4.1.1|        4.1.0|
 
 - CLI Usage:
 
-        sssekai abcache --app-platform android --app-region kr --app-version 3.4.1 --app-appHash a3015fe8-785f-27e1-fb8b-546a23c82c1f --app-abVersion 3.4.0
+        sssekai abcache --app-platform android --app-region kr --app-version 4.1.1 --app-appHash 41fd71f2-f715-bc10-5852-0a9d8542f760 --app-abVersion 4.1.0
 
 - Python Usage:
 
@@ -16,9 +16,9 @@ Reported Package: com.sega.pjsekai
 
         AbCacheConfig(
             app_region="kr",
-            app_version="3.4.1",
-            ab_version="3.4.0",
-            app_hash="a3015fe8-785f-27e1-fb8b-546a23c82c1f",
+            app_version="4.1.1",
+            ab_version="4.1.0",
+            app_hash="41fd71f2-f715-bc10-5852-0a9d8542f760",
             app_platform="android"
         )
 
