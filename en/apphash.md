@@ -1,14 +1,14 @@
-com.sega.ColorfulStage.en (3.6.0, en)
+com.sega.ColorfulStage.en (3.6.1, en)
 ---
 Reported Package: com.sega.ColorfulStage.en
 
 |                                        app_hash|   app_region|  app_version|   ab_version|
 |------------------------------------------------|-------------|-------------|-------------|
-|            b65f9f33-8104-468f-9fa9-3c17379b4569|           en|        3.6.0|        3.6.0|
+|            408895d1-1918-46e1-b201-06902ac3c0c1|           en|        3.6.1|        3.6.0|
 
 - CLI Usage:
 
-        sssekai abcache --app-platform android --app-region en --app-version 3.6.0 --app-appHash b65f9f33-8104-468f-9fa9-3c17379b4569 --app-abVersion 3.6.0
+        sssekai abcache --app-platform android --app-region en --app-version 3.6.1 --app-appHash 408895d1-1918-46e1-b201-06902ac3c0c1 --app-abVersion 3.6.0
 
 - Python Usage:
 
@@ -16,9 +16,9 @@ Reported Package: com.sega.ColorfulStage.en
 
         AbCacheConfig(
             app_region="en",
-            app_version="3.6.0",
+            app_version="3.6.1",
             ab_version="3.6.0",
-            app_hash="b65f9f33-8104-468f-9fa9-3c17379b4569",
+            app_hash="408895d1-1918-46e1-b201-06902ac3c0c1",
             app_platform="android"
         )
 
