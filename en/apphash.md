@@ -207,17 +207,17 @@ Reported Package: jp.co.colorfulpalette.sekai.enterprise.debug
 
 
 ## develop_android
-com.sega.ColorfulStage.en (3.8.0, en)
+com.sega.ColorfulStage.en (3.8.5, en)
 ---
 Reported Package: com.dokidoki.projectps
 
 |                                        app_hash|   app_region|  app_version|   ab_version|
 |------------------------------------------------|-------------|-------------|-------------|
-|            03f985ff-e27c-45dd-8fa4-32ed4e1e8ea7|           en|        3.8.0|        3.8.0|
+|            7f40a21a-723f-40b9-87a4-786251d14059|           en|        3.8.5|        3.8.0|
 
 - CLI Usage:
 
-        sssekai abcache --app-platform android --app-region en --app-version 3.8.0 --app-appHash 03f985ff-e27c-45dd-8fa4-32ed4e1e8ea7 --app-abVersion 3.8.0
+        sssekai abcache --app-platform android --app-region en --app-version 3.8.5 --app-appHash 7f40a21a-723f-40b9-87a4-786251d14059 --app-abVersion 3.8.0
 
 - Python Usage:
 
@@ -225,25 +225,25 @@ Reported Package: com.dokidoki.projectps
 
         AbCacheConfig(
             app_region="en",
-            app_version="3.8.0",
+            app_version="3.8.5",
             ab_version="3.8.0",
-            app_hash="03f985ff-e27c-45dd-8fa4-32ed4e1e8ea7",
+            app_hash="7f40a21a-723f-40b9-87a4-786251d14059",
             app_platform="android"
         )
 
 
 ## develop_ios
-com.sega.ColorfulStage.en (3.8.0, en)
+com.sega.ColorfulStage.en (3.8.5, en)
 ---
 Reported Package: com.dokidoki.ps
 
 |                                        app_hash|   app_region|  app_version|   ab_version|
 |------------------------------------------------|-------------|-------------|-------------|
-|            03f985ff-e27c-45dd-8fa4-32ed4e1e8ea7|           en|        3.8.0|        3.8.0|
+|            7f40a21a-723f-40b9-87a4-786251d14059|           en|        3.8.5|        3.8.0|
 
 - CLI Usage:
 
-        sssekai abcache --app-platform ios --app-region en --app-version 3.8.0 --app-appHash 03f985ff-e27c-45dd-8fa4-32ed4e1e8ea7 --app-abVersion 3.8.0
+        sssekai abcache --app-platform ios --app-region en --app-version 3.8.5 --app-appHash 7f40a21a-723f-40b9-87a4-786251d14059 --app-abVersion 3.8.0
 
 - Python Usage:
 
@@ -251,9 +251,9 @@ Reported Package: com.dokidoki.ps
 
         AbCacheConfig(
             app_region="en",
-            app_version="3.8.0",
+            app_version="3.8.5",
             ab_version="3.8.0",
-            app_hash="03f985ff-e27c-45dd-8fa4-32ed4e1e8ea7",
+            app_hash="7f40a21a-723f-40b9-87a4-786251d14059",
             app_platform="ios"
         )
 
@@ -311,17 +311,17 @@ Reported Package: jp.co.colorfulpalette.sekai.enterprise.load
 
 
 ## production_android
-com.sega.ColorfulStage.en (3.8.0, en)
+com.sega.ColorfulStage.en (3.8.5, en)
 ---
 Reported Package: com.sega.ColorfulStage.en
 
 |                                        app_hash|   app_region|  app_version|   ab_version|
 |------------------------------------------------|-------------|-------------|-------------|
-|            3272b0b0-f161-448e-8416-1f8bd2c443b3|           en|        3.8.0|        3.8.0|
+|            e9560ea5-f21e-4c39-8b69-ddb62701eb0e|           en|        3.8.5|        3.8.0|
 
 - CLI Usage:
 
-        sssekai abcache --app-platform android --app-region en --app-version 3.8.0 --app-appHash 3272b0b0-f161-448e-8416-1f8bd2c443b3 --app-abVersion 3.8.0
+        sssekai abcache --app-platform android --app-region en --app-version 3.8.5 --app-appHash e9560ea5-f21e-4c39-8b69-ddb62701eb0e --app-abVersion 3.8.0
 
 - Python Usage:
 
@@ -329,25 +329,25 @@ Reported Package: com.sega.ColorfulStage.en
 
         AbCacheConfig(
             app_region="en",
-            app_version="3.8.0",
+            app_version="3.8.5",
             ab_version="3.8.0",
-            app_hash="3272b0b0-f161-448e-8416-1f8bd2c443b3",
+            app_hash="e9560ea5-f21e-4c39-8b69-ddb62701eb0e",
             app_platform="android"
         )
 
 
 ## production_ios
-com.sega.ColorfulStage.en (3.8.0, en)
+com.sega.ColorfulStage.en (3.8.5, en)
 ---
 Reported Package: com.sega.ColorfulStage.en
 
 |                                        app_hash|   app_region|  app_version|   ab_version|
 |------------------------------------------------|-------------|-------------|-------------|
-|            3272b0b0-f161-448e-8416-1f8bd2c443b3|           en|        3.8.0|        3.8.0|
+|            e9560ea5-f21e-4c39-8b69-ddb62701eb0e|           en|        3.8.5|        3.8.0|
 
 - CLI Usage:
 
-        sssekai abcache --app-platform ios --app-region en --app-version 3.8.0 --app-appHash 3272b0b0-f161-448e-8416-1f8bd2c443b3 --app-abVersion 3.8.0
+        sssekai abcache --app-platform ios --app-region en --app-version 3.8.5 --app-appHash e9560ea5-f21e-4c39-8b69-ddb62701eb0e --app-abVersion 3.8.0
 
 - Python Usage:
 
@@ -355,9 +355,9 @@ Reported Package: com.sega.ColorfulStage.en
 
         AbCacheConfig(
             app_region="en",
-            app_version="3.8.0",
+            app_version="3.8.5",
             ab_version="3.8.0",
-            app_hash="3272b0b0-f161-448e-8416-1f8bd2c443b3",
+            app_hash="e9560ea5-f21e-4c39-8b69-ddb62701eb0e",
             app_platform="ios"
         )
 
@@ -519,17 +519,17 @@ Reported Package: jp.co.colorfulpalette.sekai.enterprise.promotion3
 
 
 ## staging1_android
-com.sega.ColorfulStage.en (3.8.0, en)
+com.sega.ColorfulStage.en (3.8.5, en)
 ---
 Reported Package: com.dokidoki.projectps
 
 |                                        app_hash|   app_region|  app_version|   ab_version|
 |------------------------------------------------|-------------|-------------|-------------|
-|            6df66728-62e9-41e3-bc28-444451dcc9c0|           en|        3.8.0|        3.8.0|
+|            c060e067-6e80-457d-8e73-ce9251846313|           en|        3.8.5|        3.8.0|
 
 - CLI Usage:
 
-        sssekai abcache --app-platform android --app-region en --app-version 3.8.0 --app-appHash 6df66728-62e9-41e3-bc28-444451dcc9c0 --app-abVersion 3.8.0
+        sssekai abcache --app-platform android --app-region en --app-version 3.8.5 --app-appHash c060e067-6e80-457d-8e73-ce9251846313 --app-abVersion 3.8.0
 
 - Python Usage:
 
@@ -537,25 +537,25 @@ Reported Package: com.dokidoki.projectps
 
         AbCacheConfig(
             app_region="en",
-            app_version="3.8.0",
+            app_version="3.8.5",
             ab_version="3.8.0",
-            app_hash="6df66728-62e9-41e3-bc28-444451dcc9c0",
+            app_hash="c060e067-6e80-457d-8e73-ce9251846313",
             app_platform="android"
         )
 
 
 ## staging1_ios
-com.sega.ColorfulStage.en (3.8.0, en)
+com.sega.ColorfulStage.en (3.8.5, en)
 ---
 Reported Package: com.dokidoki.ps
 
 |                                        app_hash|   app_region|  app_version|   ab_version|
 |------------------------------------------------|-------------|-------------|-------------|
-|            6df66728-62e9-41e3-bc28-444451dcc9c0|           en|        3.8.0|        3.8.0|
+|            c060e067-6e80-457d-8e73-ce9251846313|           en|        3.8.5|        3.8.0|
 
 - CLI Usage:
 
-        sssekai abcache --app-platform ios --app-region en --app-version 3.8.0 --app-appHash 6df66728-62e9-41e3-bc28-444451dcc9c0 --app-abVersion 3.8.0
+        sssekai abcache --app-platform ios --app-region en --app-version 3.8.5 --app-appHash c060e067-6e80-457d-8e73-ce9251846313 --app-abVersion 3.8.0
 
 - Python Usage:
 
@@ -563,9 +563,9 @@ Reported Package: com.dokidoki.ps
 
         AbCacheConfig(
             app_region="en",
-            app_version="3.8.0",
+            app_version="3.8.5",
             ab_version="3.8.0",
-            app_hash="6df66728-62e9-41e3-bc28-444451dcc9c0",
+            app_hash="c060e067-6e80-457d-8e73-ce9251846313",
             app_platform="ios"
         )
 
@@ -675,17 +675,17 @@ Reported Package: jp.co.colorfulpalette.sekai.enterprise.staging3
 
 
 ## staging_android
-com.sega.ColorfulStage.en (3.8.0, en)
+com.sega.ColorfulStage.en (3.8.5, en)
 ---
 Reported Package: com.dokidoki.projectps
 
 |                                        app_hash|   app_region|  app_version|   ab_version|
 |------------------------------------------------|-------------|-------------|-------------|
-|            6df66728-62e9-41e3-bc28-444451dcc9c0|           en|        3.8.0|        3.8.0|
+|            c060e067-6e80-457d-8e73-ce9251846313|           en|        3.8.5|        3.8.0|
 
 - CLI Usage:
 
-        sssekai abcache --app-platform android --app-region en --app-version 3.8.0 --app-appHash 6df66728-62e9-41e3-bc28-444451dcc9c0 --app-abVersion 3.8.0
+        sssekai abcache --app-platform android --app-region en --app-version 3.8.5 --app-appHash c060e067-6e80-457d-8e73-ce9251846313 --app-abVersion 3.8.0
 
 - Python Usage:
 
@@ -693,25 +693,25 @@ Reported Package: com.dokidoki.projectps
 
         AbCacheConfig(
             app_region="en",
-            app_version="3.8.0",
+            app_version="3.8.5",
             ab_version="3.8.0",
-            app_hash="6df66728-62e9-41e3-bc28-444451dcc9c0",
+            app_hash="c060e067-6e80-457d-8e73-ce9251846313",
             app_platform="android"
         )
 
 
 ## staging_ios
-com.sega.ColorfulStage.en (3.8.0, en)
+com.sega.ColorfulStage.en (3.8.5, en)
 ---
 Reported Package: com.dokidoki.ps
 
 |                                        app_hash|   app_region|  app_version|   ab_version|
 |------------------------------------------------|-------------|-------------|-------------|
-|            6df66728-62e9-41e3-bc28-444451dcc9c0|           en|        3.8.0|        3.8.0|
+|            c060e067-6e80-457d-8e73-ce9251846313|           en|        3.8.5|        3.8.0|
 
 - CLI Usage:
 
-        sssekai abcache --app-platform ios --app-region en --app-version 3.8.0 --app-appHash 6df66728-62e9-41e3-bc28-444451dcc9c0 --app-abVersion 3.8.0
+        sssekai abcache --app-platform ios --app-region en --app-version 3.8.5 --app-appHash c060e067-6e80-457d-8e73-ce9251846313 --app-abVersion 3.8.0
 
 - Python Usage:
 
@@ -719,9 +719,9 @@ Reported Package: com.dokidoki.ps
 
         AbCacheConfig(
             app_region="en",
-            app_version="3.8.0",
+            app_version="3.8.5",
             ab_version="3.8.0",
-            app_hash="6df66728-62e9-41e3-bc28-444451dcc9c0",
+            app_hash="c060e067-6e80-457d-8e73-ce9251846313",
             app_platform="ios"
         )
 

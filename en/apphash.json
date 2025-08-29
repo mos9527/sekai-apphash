@@ -74,18 +74,18 @@
     "develop_android": {
         "package": "com.sega.ColorfulStage.en",
         "reported_package": "com.dokidoki.projectps",
-        "app_hash": "03f985ff-e27c-45dd-8fa4-32ed4e1e8ea7",
+        "app_hash": "7f40a21a-723f-40b9-87a4-786251d14059",
         "app_region": "en",
-        "app_version": "3.8.0",
+        "app_version": "3.8.5",
         "app_platform": "android",
         "ab_version": "3.8.0"
     },
     "develop_ios": {
         "package": "com.sega.ColorfulStage.en",
         "reported_package": "com.dokidoki.ps",
-        "app_hash": "03f985ff-e27c-45dd-8fa4-32ed4e1e8ea7",
+        "app_hash": "7f40a21a-723f-40b9-87a4-786251d14059",
         "app_region": "en",
-        "app_version": "3.8.0",
+        "app_version": "3.8.5",
         "app_platform": "ios",
         "ab_version": "3.8.0"
     },
@@ -110,18 +110,18 @@
     "production_android": {
         "package": "com.sega.ColorfulStage.en",
         "reported_package": "com.sega.ColorfulStage.en",
-        "app_hash": "3272b0b0-f161-448e-8416-1f8bd2c443b3",
+        "app_hash": "e9560ea5-f21e-4c39-8b69-ddb62701eb0e",
         "app_region": "en",
-        "app_version": "3.8.0",
+        "app_version": "3.8.5",
         "app_platform": "android",
         "ab_version": "3.8.0"
     },
     "production_ios": {
         "package": "com.sega.ColorfulStage.en",
         "reported_package": "com.sega.ColorfulStage.en",
-        "app_hash": "3272b0b0-f161-448e-8416-1f8bd2c443b3",
+        "app_hash": "e9560ea5-f21e-4c39-8b69-ddb62701eb0e",
         "app_region": "en",
-        "app_version": "3.8.0",
+        "app_version": "3.8.5",
         "app_platform": "ios",
         "ab_version": "3.8.0"
     },
@@ -182,18 +182,18 @@
     "staging1_android": {
         "package": "com.sega.ColorfulStage.en",
         "reported_package": "com.dokidoki.projectps",
-        "app_hash": "6df66728-62e9-41e3-bc28-444451dcc9c0",
+        "app_hash": "c060e067-6e80-457d-8e73-ce9251846313",
         "app_region": "en",
-        "app_version": "3.8.0",
+        "app_version": "3.8.5",
         "app_platform": "android",
         "ab_version": "3.8.0"
     },
     "staging1_ios": {
         "package": "com.sega.ColorfulStage.en",
         "reported_package": "com.dokidoki.ps",
-        "app_hash": "6df66728-62e9-41e3-bc28-444451dcc9c0",
+        "app_hash": "c060e067-6e80-457d-8e73-ce9251846313",
         "app_region": "en",
-        "app_version": "3.8.0",
+        "app_version": "3.8.5",
         "app_platform": "ios",
         "ab_version": "3.8.0"
     },
@@ -236,18 +236,18 @@
     "staging_android": {
         "package": "com.sega.ColorfulStage.en",
         "reported_package": "com.dokidoki.projectps",
-        "app_hash": "6df66728-62e9-41e3-bc28-444451dcc9c0",
+        "app_hash": "c060e067-6e80-457d-8e73-ce9251846313",
         "app_region": "en",
-        "app_version": "3.8.0",
+        "app_version": "3.8.5",
         "app_platform": "android",
         "ab_version": "3.8.0"
     },
     "staging_ios": {
         "package": "com.sega.ColorfulStage.en",
         "reported_package": "com.dokidoki.ps",
-        "app_hash": "6df66728-62e9-41e3-bc28-444451dcc9c0",
+        "app_hash": "c060e067-6e80-457d-8e73-ce9251846313",
         "app_region": "en",
-        "app_version": "3.8.0",
+        "app_version": "3.8.5",
         "app_platform": "ios",
         "ab_version": "3.8.0"
     }
