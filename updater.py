@@ -158,7 +158,7 @@ def apphash(region: str):
                     {
                         "apk_src": CWD(".temp", f"{region}.apk"),
                         "format": "json",
-                        "deep": True
+                        "deep": False
                     }
                 )
             )
@@ -170,7 +170,7 @@ def apphash(region: str):
                     {
                         "apk_src": CWD(".temp", f"{region}.apk"),
                         "format": "markdown",
-                        "deep": True
+                        "deep": False
                     }
                 )
             )
