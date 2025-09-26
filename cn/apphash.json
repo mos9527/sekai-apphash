@@ -2,56 +2,56 @@
     "debug1_android": {
         "package": "com.hermes.mk",
         "reported_package": "jp.co.colorfulpalette.sekai.debug1",
-        "app_hash": "c2f5699c-2ad5-240a-ef49-dd871540c584",
+        "app_hash": "9d3955f9-f158-6195-b275-82870b838399",
         "app_region": "cn",
-        "app_version": "4.1.1",
+        "app_version": "5.2.0",
         "app_platform": "android",
-        "ab_version": "4.1.0"
+        "ab_version": "5.2.0"
     },
     "debug1_ios": {
         "package": "com.hermes.mk",
         "reported_package": "jp.co.colorfulpalette.sekai.enterprise.debug1",
-        "app_hash": "c2f5699c-2ad5-240a-ef49-dd871540c584",
+        "app_hash": "9d3955f9-f158-6195-b275-82870b838399",
         "app_region": "cn",
-        "app_version": "4.1.1",
+        "app_version": "5.2.0",
         "app_platform": "ios",
-        "ab_version": "4.1.0"
+        "ab_version": "5.2.0"
     },
     "debug2_android": {
         "package": "com.hermes.mk",
         "reported_package": "jp.co.colorfulpalette.sekai.debug2",
-        "app_hash": "c2f5699c-2ad5-240a-ef49-dd871540c584",
+        "app_hash": "9d3955f9-f158-6195-b275-82870b838399",
         "app_region": "cn",
-        "app_version": "4.1.1",
+        "app_version": "5.2.0",
         "app_platform": "android",
-        "ab_version": "4.1.0"
+        "ab_version": "5.2.0"
     },
     "debug2_ios": {
         "package": "com.hermes.mk",
         "reported_package": "jp.co.colorfulpalette.sekai.enterprise.debug2",
-        "app_hash": "c2f5699c-2ad5-240a-ef49-dd871540c584",
+        "app_hash": "9d3955f9-f158-6195-b275-82870b838399",
         "app_region": "cn",
-        "app_version": "4.1.1",
+        "app_version": "5.2.0",
         "app_platform": "ios",
-        "ab_version": "4.1.0"
+        "ab_version": "5.2.0"
     },
     "debug3_android": {
         "package": "com.hermes.mk",
         "reported_package": "jp.co.colorfulpalette.sekai.debug3",
-        "app_hash": "c2f5699c-2ad5-240a-ef49-dd871540c584",
+        "app_hash": "9d3955f9-f158-6195-b275-82870b838399",
         "app_region": "cn",
-        "app_version": "4.1.1",
+        "app_version": "5.2.0",
         "app_platform": "android",
-        "ab_version": "4.1.0"
+        "ab_version": "5.2.0"
     },
     "debug3_ios": {
         "package": "com.hermes.mk",
         "reported_package": "jp.co.colorfulpalette.sekai.enterprise.debug3",
-        "app_hash": "c2f5699c-2ad5-240a-ef49-dd871540c584",
+        "app_hash": "9d3955f9-f158-6195-b275-82870b838399",
         "app_region": "cn",
-        "app_version": "4.1.1",
+        "app_version": "5.2.0",
         "app_platform": "ios",
-        "ab_version": "4.1.0"
+        "ab_version": "5.2.0"
     },
     "debug_android": {
         "package": "com.hermes.mk",
@@ -74,164 +74,164 @@
     "develop_android": {
         "package": "com.hermes.mk",
         "reported_package": "jp.co.colorfulpalette.sekai.dev",
-        "app_hash": "6a395d06-e54f-acd5-9419-2fc65c4da33d",
+        "app_hash": "156865ef-605a-0229-c95d-7803b8ec62ad",
         "app_region": "cn",
-        "app_version": "4.1.1",
+        "app_version": "5.2.0",
         "app_platform": "android",
-        "ab_version": "4.1.0"
+        "ab_version": "5.2.0"
     },
     "develop_ios": {
         "package": "com.hermes.mk",
         "reported_package": "jp.co.colorfulpalette.sekai.enterprise.dev",
-        "app_hash": "6a395d06-e54f-acd5-9419-2fc65c4da33d",
+        "app_hash": "156865ef-605a-0229-c95d-7803b8ec62ad",
         "app_region": "cn",
-        "app_version": "4.1.1",
+        "app_version": "5.2.0",
         "app_platform": "ios",
-        "ab_version": "4.1.0"
+        "ab_version": "5.2.0"
     },
     "load_android": {
         "package": "com.hermes.mk",
         "reported_package": "jp.co.colorfulpalette.sekai.load",
-        "app_hash": "35c8ac25-9d2d-e866-bc25-5156d204c9f2",
+        "app_hash": "5daf29e6-a094-c91e-0177-33b630ad5fb1",
         "app_region": "cn",
-        "app_version": "4.1.1",
+        "app_version": "5.2.0",
         "app_platform": "android",
-        "ab_version": "4.1.0"
+        "ab_version": "5.2.0"
     },
     "load_ios": {
         "package": "com.hermes.mk",
         "reported_package": "jp.co.colorfulpalette.sekai.enterprise.load",
-        "app_hash": "35c8ac25-9d2d-e866-bc25-5156d204c9f2",
+        "app_hash": "5daf29e6-a094-c91e-0177-33b630ad5fb1",
         "app_region": "cn",
-        "app_version": "4.1.1",
+        "app_version": "5.2.0",
         "app_platform": "ios",
-        "ab_version": "4.1.0"
+        "ab_version": "5.2.0"
     },
     "production_android": {
         "package": "com.hermes.mk",
         "reported_package": "com.sega.pjsekai",
-        "app_hash": "41fd71f2-f715-bc10-5852-0a9d8542f760",
+        "app_hash": "4ca841be-5890-6c8e-930d-eb172f8993c3",
         "app_region": "cn",
-        "app_version": "4.1.1",
+        "app_version": "5.2.0",
         "app_platform": "android",
-        "ab_version": "4.1.0"
+        "ab_version": "5.2.0"
     },
     "production_ios": {
         "package": "com.hermes.mk",
         "reported_package": "com.sega.pjsekai",
-        "app_hash": "41fd71f2-f715-bc10-5852-0a9d8542f760",
+        "app_hash": "4ca841be-5890-6c8e-930d-eb172f8993c3",
         "app_region": "cn",
-        "app_version": "4.1.1",
+        "app_version": "5.2.0",
         "app_platform": "ios",
-        "ab_version": "4.1.0"
+        "ab_version": "5.2.0"
     },
     "promotion1_android": {
         "package": "com.hermes.mk",
         "reported_package": "jp.co.colorfulpalette.sekai.promotion1",
-        "app_hash": "d04ccb65-deab-56d3-3a5a-507a422a9e84",
+        "app_hash": "d87539e5-f3ae-3a16-6591-b681aa604c18",
         "app_region": "cn",
-        "app_version": "4.1.1",
+        "app_version": "5.2.0",
         "app_platform": "android",
-        "ab_version": "4.1.0"
+        "ab_version": "5.2.0"
     },
     "promotion1_ios": {
         "package": "com.hermes.mk",
         "reported_package": "jp.co.colorfulpalette.sekai.enterprise.promotion1",
-        "app_hash": "d04ccb65-deab-56d3-3a5a-507a422a9e84",
+        "app_hash": "d87539e5-f3ae-3a16-6591-b681aa604c18",
         "app_region": "cn",
-        "app_version": "4.1.1",
+        "app_version": "5.2.0",
         "app_platform": "ios",
-        "ab_version": "4.1.0"
+        "ab_version": "5.2.0"
     },
     "promotion2_android": {
         "package": "com.hermes.mk",
         "reported_package": "jp.co.colorfulpalette.sekai.promotion2",
-        "app_hash": "d04ccb65-deab-56d3-3a5a-507a422a9e84",
+        "app_hash": "d87539e5-f3ae-3a16-6591-b681aa604c18",
         "app_region": "cn",
-        "app_version": "4.1.1",
+        "app_version": "5.2.0",
         "app_platform": "android",
-        "ab_version": "4.1.0"
+        "ab_version": "5.2.0"
     },
     "promotion2_ios": {
         "package": "com.hermes.mk",
         "reported_package": "jp.co.colorfulpalette.sekai.enterprise.promotion2",
-        "app_hash": "d04ccb65-deab-56d3-3a5a-507a422a9e84",
+        "app_hash": "d87539e5-f3ae-3a16-6591-b681aa604c18",
         "app_region": "cn",
-        "app_version": "4.1.1",
+        "app_version": "5.2.0",
         "app_platform": "ios",
-        "ab_version": "4.1.0"
+        "ab_version": "5.2.0"
     },
     "promotion3_android": {
         "package": "com.hermes.mk",
         "reported_package": "jp.co.colorfulpalette.sekai.promotion3",
-        "app_hash": "d04ccb65-deab-56d3-3a5a-507a422a9e84",
+        "app_hash": "d87539e5-f3ae-3a16-6591-b681aa604c18",
         "app_region": "cn",
-        "app_version": "4.1.1",
+        "app_version": "5.2.0",
         "app_platform": "android",
-        "ab_version": "4.1.0"
+        "ab_version": "5.2.0"
     },
     "promotion3_ios": {
         "package": "com.hermes.mk",
         "reported_package": "jp.co.colorfulpalette.sekai.enterprise.promotion3",
-        "app_hash": "d04ccb65-deab-56d3-3a5a-507a422a9e84",
+        "app_hash": "d87539e5-f3ae-3a16-6591-b681aa604c18",
         "app_region": "cn",
-        "app_version": "4.1.1",
+        "app_version": "5.2.0",
         "app_platform": "ios",
-        "ab_version": "4.1.0"
+        "ab_version": "5.2.0"
     },
     "staging1_android": {
         "package": "com.hermes.mk",
         "reported_package": "jp.co.colorfulpalette.sekai.staging1",
-        "app_hash": "f110bbe4-3250-36dd-ceb3-b653e808c858",
+        "app_hash": "0ef16531-722c-ed62-76db-8d091ddaf38c",
         "app_region": "cn",
-        "app_version": "4.1.1",
+        "app_version": "5.2.0",
         "app_platform": "android",
-        "ab_version": "4.1.0"
+        "ab_version": "5.2.0"
     },
     "staging1_ios": {
         "package": "com.hermes.mk",
         "reported_package": "jp.co.colorfulpalette.sekai.enterprise.staging1",
-        "app_hash": "f110bbe4-3250-36dd-ceb3-b653e808c858",
+        "app_hash": "0ef16531-722c-ed62-76db-8d091ddaf38c",
         "app_region": "cn",
-        "app_version": "4.1.1",
+        "app_version": "5.2.0",
         "app_platform": "ios",
-        "ab_version": "4.1.0"
+        "ab_version": "5.2.0"
     },
     "staging2_android": {
         "package": "com.hermes.mk",
         "reported_package": "jp.co.colorfulpalette.sekai.staging2",
-        "app_hash": "f110bbe4-3250-36dd-ceb3-b653e808c858",
+        "app_hash": "0ef16531-722c-ed62-76db-8d091ddaf38c",
         "app_region": "cn",
-        "app_version": "4.1.1",
+        "app_version": "5.2.0",
         "app_platform": "android",
-        "ab_version": "4.1.0"
+        "ab_version": "5.2.0"
     },
     "staging2_ios": {
         "package": "com.hermes.mk",
         "reported_package": "jp.co.colorfulpalette.sekai.enterprise.staging2",
-        "app_hash": "f110bbe4-3250-36dd-ceb3-b653e808c858",
+        "app_hash": "0ef16531-722c-ed62-76db-8d091ddaf38c",
         "app_region": "cn",
-        "app_version": "4.1.1",
+        "app_version": "5.2.0",
         "app_platform": "ios",
-        "ab_version": "4.1.0"
+        "ab_version": "5.2.0"
     },
     "staging3_android": {
         "package": "com.hermes.mk",
         "reported_package": "jp.co.colorfulpalette.sekai.staging3",
-        "app_hash": "f110bbe4-3250-36dd-ceb3-b653e808c858",
+        "app_hash": "0ef16531-722c-ed62-76db-8d091ddaf38c",
         "app_region": "cn",
-        "app_version": "4.1.1",
+        "app_version": "5.2.0",
         "app_platform": "android",
-        "ab_version": "4.1.0"
+        "ab_version": "5.2.0"
     },
     "staging3_ios": {
         "package": "com.hermes.mk",
         "reported_package": "jp.co.colorfulpalette.sekai.enterprise.staging3",
-        "app_hash": "f110bbe4-3250-36dd-ceb3-b653e808c858",
+        "app_hash": "0ef16531-722c-ed62-76db-8d091ddaf38c",
         "app_region": "cn",
-        "app_version": "4.1.1",
+        "app_version": "5.2.0",
         "app_platform": "ios",
-        "ab_version": "4.1.0"
+        "ab_version": "5.2.0"
     },
     "staging_android": {
         "package": "com.hermes.mk",
