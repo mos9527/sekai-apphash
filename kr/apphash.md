@@ -1,15 +1,15 @@
 ## debug1_android
-com.pjsekai.kr (4.1.1, kr)
+com.pjsekai.kr (5.2.0, kr)
 ---
 Reported Package: jp.co.colorfulpalette.sekai.debug1
 
 |                                        app_hash|   app_region|  app_version|   ab_version|
 |------------------------------------------------|-------------|-------------|-------------|
-|            c2f5699c-2ad5-240a-ef49-dd871540c584|           kr|        4.1.1|        4.1.0|
+|            9d3955f9-f158-6195-b275-82870b838399|           kr|        5.2.0|        5.2.0|
 
 - CLI Usage:
 
-        sssekai abcache --app-platform android --app-region kr --app-version 4.1.1 --app-appHash c2f5699c-2ad5-240a-ef49-dd871540c584 --app-abVersion 4.1.0
+        sssekai abcache --app-platform android --app-region kr --app-version 5.2.0 --app-appHash 9d3955f9-f158-6195-b275-82870b838399 --app-abVersion 5.2.0
 
 - Python Usage:
 
@@ -17,25 +17,25 @@ Reported Package: jp.co.colorfulpalette.sekai.debug1
 
         AbCacheConfig(
             app_region="kr",
-            app_version="4.1.1",
-            ab_version="4.1.0",
-            app_hash="c2f5699c-2ad5-240a-ef49-dd871540c584",
+            app_version="5.2.0",
+            ab_version="5.2.0",
+            app_hash="9d3955f9-f158-6195-b275-82870b838399",
             app_platform="android"
         )
 
 
 ## debug1_ios
-com.pjsekai.kr (4.1.1, kr)
+com.pjsekai.kr (5.2.0, kr)
 ---
 Reported Package: jp.co.colorfulpalette.sekai.enterprise.debug1
 
 |                                        app_hash|   app_region|  app_version|   ab_version|
 |------------------------------------------------|-------------|-------------|-------------|
-|            c2f5699c-2ad5-240a-ef49-dd871540c584|           kr|        4.1.1|        4.1.0|
+|            9d3955f9-f158-6195-b275-82870b838399|           kr|        5.2.0|        5.2.0|
 
 - CLI Usage:
 
-        sssekai abcache --app-platform ios --app-region kr --app-version 4.1.1 --app-appHash c2f5699c-2ad5-240a-ef49-dd871540c584 --app-abVersion 4.1.0
+        sssekai abcache --app-platform ios --app-region kr --app-version 5.2.0 --app-appHash 9d3955f9-f158-6195-b275-82870b838399 --app-abVersion 5.2.0
 
 - Python Usage:
 
@@ -43,25 +43,25 @@ Reported Package: jp.co.colorfulpalette.sekai.enterprise.debug1
 
         AbCacheConfig(
             app_region="kr",
-            app_version="4.1.1",
-            ab_version="4.1.0",
-            app_hash="c2f5699c-2ad5-240a-ef49-dd871540c584",
+            app_version="5.2.0",
+            ab_version="5.2.0",
+            app_hash="9d3955f9-f158-6195-b275-82870b838399",
             app_platform="ios"
         )
 
 
 ## debug2_android
-com.pjsekai.kr (4.1.1, kr)
+com.pjsekai.kr (5.2.0, kr)
 ---
 Reported Package: jp.co.colorfulpalette.sekai.debug2
 
 |                                        app_hash|   app_region|  app_version|   ab_version|
 |------------------------------------------------|-------------|-------------|-------------|
-|            c2f5699c-2ad5-240a-ef49-dd871540c584|           kr|        4.1.1|        4.1.0|
+|            9d3955f9-f158-6195-b275-82870b838399|           kr|        5.2.0|        5.2.0|
 
 - CLI Usage:
 
-        sssekai abcache --app-platform android --app-region kr --app-version 4.1.1 --app-appHash c2f5699c-2ad5-240a-ef49-dd871540c584 --app-abVersion 4.1.0
+        sssekai abcache --app-platform android --app-region kr --app-version 5.2.0 --app-appHash 9d3955f9-f158-6195-b275-82870b838399 --app-abVersion 5.2.0
 
 - Python Usage:
 
@@ -69,25 +69,25 @@ Reported Package: jp.co.colorfulpalette.sekai.debug2
 
         AbCacheConfig(
             app_region="kr",
-            app_version="4.1.1",
-            ab_version="4.1.0",
-            app_hash="c2f5699c-2ad5-240a-ef49-dd871540c584",
+            app_version="5.2.0",
+            ab_version="5.2.0",
+            app_hash="9d3955f9-f158-6195-b275-82870b838399",
             app_platform="android"
         )
 
 
 ## debug2_ios
-com.pjsekai.kr (4.1.1, kr)
+com.pjsekai.kr (5.2.0, kr)
 ---
 Reported Package: jp.co.colorfulpalette.sekai.enterprise.debug2
 
 |                                        app_hash|   app_region|  app_version|   ab_version|
 |------------------------------------------------|-------------|-------------|-------------|
-|            c2f5699c-2ad5-240a-ef49-dd871540c584|           kr|        4.1.1|        4.1.0|
+|            9d3955f9-f158-6195-b275-82870b838399|           kr|        5.2.0|        5.2.0|
 
 - CLI Usage:
 
-        sssekai abcache --app-platform ios --app-region kr --app-version 4.1.1 --app-appHash c2f5699c-2ad5-240a-ef49-dd871540c584 --app-abVersion 4.1.0
+        sssekai abcache --app-platform ios --app-region kr --app-version 5.2.0 --app-appHash 9d3955f9-f158-6195-b275-82870b838399 --app-abVersion 5.2.0
 
 - Python Usage:
 
@@ -95,25 +95,25 @@ Reported Package: jp.co.colorfulpalette.sekai.enterprise.debug2
 
         AbCacheConfig(
             app_region="kr",
-            app_version="4.1.1",
-            ab_version="4.1.0",
-            app_hash="c2f5699c-2ad5-240a-ef49-dd871540c584",
+            app_version="5.2.0",
+            ab_version="5.2.0",
+            app_hash="9d3955f9-f158-6195-b275-82870b838399",
             app_platform="ios"
         )
 
 
 ## debug3_android
-com.pjsekai.kr (4.1.1, kr)
+com.pjsekai.kr (5.2.0, kr)
 ---
 Reported Package: jp.co.colorfulpalette.sekai.debug3
 
 |                                        app_hash|   app_region|  app_version|   ab_version|
 |------------------------------------------------|-------------|-------------|-------------|
-|            c2f5699c-2ad5-240a-ef49-dd871540c584|           kr|        4.1.1|        4.1.0|
+|            9d3955f9-f158-6195-b275-82870b838399|           kr|        5.2.0|        5.2.0|
 
 - CLI Usage:
 
-        sssekai abcache --app-platform android --app-region kr --app-version 4.1.1 --app-appHash c2f5699c-2ad5-240a-ef49-dd871540c584 --app-abVersion 4.1.0
+        sssekai abcache --app-platform android --app-region kr --app-version 5.2.0 --app-appHash 9d3955f9-f158-6195-b275-82870b838399 --app-abVersion 5.2.0
 
 - Python Usage:
 
@@ -121,25 +121,25 @@ Reported Package: jp.co.colorfulpalette.sekai.debug3
 
         AbCacheConfig(
             app_region="kr",
-            app_version="4.1.1",
-            ab_version="4.1.0",
-            app_hash="c2f5699c-2ad5-240a-ef49-dd871540c584",
+            app_version="5.2.0",
+            ab_version="5.2.0",
+            app_hash="9d3955f9-f158-6195-b275-82870b838399",
             app_platform="android"
         )
 
 
 ## debug3_ios
-com.pjsekai.kr (4.1.1, kr)
+com.pjsekai.kr (5.2.0, kr)
 ---
 Reported Package: jp.co.colorfulpalette.sekai.enterprise.debug3
 
 |                                        app_hash|   app_region|  app_version|   ab_version|
 |------------------------------------------------|-------------|-------------|-------------|
-|            c2f5699c-2ad5-240a-ef49-dd871540c584|           kr|        4.1.1|        4.1.0|
+|            9d3955f9-f158-6195-b275-82870b838399|           kr|        5.2.0|        5.2.0|
 
 - CLI Usage:
 
-        sssekai abcache --app-platform ios --app-region kr --app-version 4.1.1 --app-appHash c2f5699c-2ad5-240a-ef49-dd871540c584 --app-abVersion 4.1.0
+        sssekai abcache --app-platform ios --app-region kr --app-version 5.2.0 --app-appHash 9d3955f9-f158-6195-b275-82870b838399 --app-abVersion 5.2.0
 
 - Python Usage:
 
@@ -147,9 +147,9 @@ Reported Package: jp.co.colorfulpalette.sekai.enterprise.debug3
 
         AbCacheConfig(
             app_region="kr",
-            app_version="4.1.1",
-            ab_version="4.1.0",
-            app_hash="c2f5699c-2ad5-240a-ef49-dd871540c584",
+            app_version="5.2.0",
+            ab_version="5.2.0",
+            app_hash="9d3955f9-f158-6195-b275-82870b838399",
             app_platform="ios"
         )
 
@@ -207,17 +207,17 @@ Reported Package: jp.co.colorfulpalette.sekai.enterprise.debug
 
 
 ## develop_android
-com.pjsekai.kr (4.1.1, kr)
+com.pjsekai.kr (5.2.0, kr)
 ---
 Reported Package: jp.co.colorfulpalette.sekai.dev
 
 |                                        app_hash|   app_region|  app_version|   ab_version|
 |------------------------------------------------|-------------|-------------|-------------|
-|            6a395d06-e54f-acd5-9419-2fc65c4da33d|           kr|        4.1.1|        4.1.0|
+|            156865ef-605a-0229-c95d-7803b8ec62ad|           kr|        5.2.0|        5.2.0|
 
 - CLI Usage:
 
-        sssekai abcache --app-platform android --app-region kr --app-version 4.1.1 --app-appHash 6a395d06-e54f-acd5-9419-2fc65c4da33d --app-abVersion 4.1.0
+        sssekai abcache --app-platform android --app-region kr --app-version 5.2.0 --app-appHash 156865ef-605a-0229-c95d-7803b8ec62ad --app-abVersion 5.2.0
 
 - Python Usage:
 
@@ -225,25 +225,25 @@ Reported Package: jp.co.colorfulpalette.sekai.dev
 
         AbCacheConfig(
             app_region="kr",
-            app_version="4.1.1",
-            ab_version="4.1.0",
-            app_hash="6a395d06-e54f-acd5-9419-2fc65c4da33d",
+            app_version="5.2.0",
+            ab_version="5.2.0",
+            app_hash="156865ef-605a-0229-c95d-7803b8ec62ad",
             app_platform="android"
         )
 
 
 ## develop_ios
-com.pjsekai.kr (4.1.1, kr)
+com.pjsekai.kr (5.2.0, kr)
 ---
 Reported Package: jp.co.colorfulpalette.sekai.enterprise.dev
 
 |                                        app_hash|   app_region|  app_version|   ab_version|
 |------------------------------------------------|-------------|-------------|-------------|
-|            6a395d06-e54f-acd5-9419-2fc65c4da33d|           kr|        4.1.1|        4.1.0|
+|            156865ef-605a-0229-c95d-7803b8ec62ad|           kr|        5.2.0|        5.2.0|
 
 - CLI Usage:
 
-        sssekai abcache --app-platform ios --app-region kr --app-version 4.1.1 --app-appHash 6a395d06-e54f-acd5-9419-2fc65c4da33d --app-abVersion 4.1.0
+        sssekai abcache --app-platform ios --app-region kr --app-version 5.2.0 --app-appHash 156865ef-605a-0229-c95d-7803b8ec62ad --app-abVersion 5.2.0
 
 - Python Usage:
 
@@ -251,25 +251,25 @@ Reported Package: jp.co.colorfulpalette.sekai.enterprise.dev
 
         AbCacheConfig(
             app_region="kr",
-            app_version="4.1.1",
-            ab_version="4.1.0",
-            app_hash="6a395d06-e54f-acd5-9419-2fc65c4da33d",
+            app_version="5.2.0",
+            ab_version="5.2.0",
+            app_hash="156865ef-605a-0229-c95d-7803b8ec62ad",
             app_platform="ios"
         )
 
 
 ## load_android
-com.pjsekai.kr (4.1.1, kr)
+com.pjsekai.kr (5.2.0, kr)
 ---
 Reported Package: jp.co.colorfulpalette.sekai.load
 
 |                                        app_hash|   app_region|  app_version|   ab_version|
 |------------------------------------------------|-------------|-------------|-------------|
-|            35c8ac25-9d2d-e866-bc25-5156d204c9f2|           kr|        4.1.1|        4.1.0|
+|            5daf29e6-a094-c91e-0177-33b630ad5fb1|           kr|        5.2.0|        5.2.0|
 
 - CLI Usage:
 
-        sssekai abcache --app-platform android --app-region kr --app-version 4.1.1 --app-appHash 35c8ac25-9d2d-e866-bc25-5156d204c9f2 --app-abVersion 4.1.0
+        sssekai abcache --app-platform android --app-region kr --app-version 5.2.0 --app-appHash 5daf29e6-a094-c91e-0177-33b630ad5fb1 --app-abVersion 5.2.0
 
 - Python Usage:
 
@@ -277,25 +277,25 @@ Reported Package: jp.co.colorfulpalette.sekai.load
 
         AbCacheConfig(
             app_region="kr",
-            app_version="4.1.1",
-            ab_version="4.1.0",
-            app_hash="35c8ac25-9d2d-e866-bc25-5156d204c9f2",
+            app_version="5.2.0",
+            ab_version="5.2.0",
+            app_hash="5daf29e6-a094-c91e-0177-33b630ad5fb1",
             app_platform="android"
         )
 
 
 ## load_ios
-com.pjsekai.kr (4.1.1, kr)
+com.pjsekai.kr (5.2.0, kr)
 ---
 Reported Package: jp.co.colorfulpalette.sekai.enterprise.load
 
 |                                        app_hash|   app_region|  app_version|   ab_version|
 |------------------------------------------------|-------------|-------------|-------------|
-|            35c8ac25-9d2d-e866-bc25-5156d204c9f2|           kr|        4.1.1|        4.1.0|
+|            5daf29e6-a094-c91e-0177-33b630ad5fb1|           kr|        5.2.0|        5.2.0|
 
 - CLI Usage:
 
-        sssekai abcache --app-platform ios --app-region kr --app-version 4.1.1 --app-appHash 35c8ac25-9d2d-e866-bc25-5156d204c9f2 --app-abVersion 4.1.0
+        sssekai abcache --app-platform ios --app-region kr --app-version 5.2.0 --app-appHash 5daf29e6-a094-c91e-0177-33b630ad5fb1 --app-abVersion 5.2.0
 
 - Python Usage:
 
@@ -303,25 +303,25 @@ Reported Package: jp.co.colorfulpalette.sekai.enterprise.load
 
         AbCacheConfig(
             app_region="kr",
-            app_version="4.1.1",
-            ab_version="4.1.0",
-            app_hash="35c8ac25-9d2d-e866-bc25-5156d204c9f2",
+            app_version="5.2.0",
+            ab_version="5.2.0",
+            app_hash="5daf29e6-a094-c91e-0177-33b630ad5fb1",
             app_platform="ios"
         )
 
 
 ## production_android
-com.pjsekai.kr (4.1.1, kr)
+com.pjsekai.kr (5.2.0, kr)
 ---
 Reported Package: com.sega.pjsekai
 
 |                                        app_hash|   app_region|  app_version|   ab_version|
 |------------------------------------------------|-------------|-------------|-------------|
-|            41fd71f2-f715-bc10-5852-0a9d8542f760|           kr|        4.1.1|        4.1.0|
+|            4ca841be-5890-6c8e-930d-eb172f8993c3|           kr|        5.2.0|        5.2.0|
 
 - CLI Usage:
 
-        sssekai abcache --app-platform android --app-region kr --app-version 4.1.1 --app-appHash 41fd71f2-f715-bc10-5852-0a9d8542f760 --app-abVersion 4.1.0
+        sssekai abcache --app-platform android --app-region kr --app-version 5.2.0 --app-appHash 4ca841be-5890-6c8e-930d-eb172f8993c3 --app-abVersion 5.2.0
 
 - Python Usage:
 
@@ -329,25 +329,25 @@ Reported Package: com.sega.pjsekai
 
         AbCacheConfig(
             app_region="kr",
-            app_version="4.1.1",
-            ab_version="4.1.0",
-            app_hash="41fd71f2-f715-bc10-5852-0a9d8542f760",
+            app_version="5.2.0",
+            ab_version="5.2.0",
+            app_hash="4ca841be-5890-6c8e-930d-eb172f8993c3",
             app_platform="android"
         )
 
 
 ## production_ios
-com.pjsekai.kr (4.1.1, kr)
+com.pjsekai.kr (5.2.0, kr)
 ---
 Reported Package: com.sega.pjsekai
 
 |                                        app_hash|   app_region|  app_version|   ab_version|
 |------------------------------------------------|-------------|-------------|-------------|
-|            41fd71f2-f715-bc10-5852-0a9d8542f760|           kr|        4.1.1|        4.1.0|
+|            4ca841be-5890-6c8e-930d-eb172f8993c3|           kr|        5.2.0|        5.2.0|
 
 - CLI Usage:
 
-        sssekai abcache --app-platform ios --app-region kr --app-version 4.1.1 --app-appHash 41fd71f2-f715-bc10-5852-0a9d8542f760 --app-abVersion 4.1.0
+        sssekai abcache --app-platform ios --app-region kr --app-version 5.2.0 --app-appHash 4ca841be-5890-6c8e-930d-eb172f8993c3 --app-abVersion 5.2.0
 
 - Python Usage:
 
@@ -355,25 +355,25 @@ Reported Package: com.sega.pjsekai
 
         AbCacheConfig(
             app_region="kr",
-            app_version="4.1.1",
-            ab_version="4.1.0",
-            app_hash="41fd71f2-f715-bc10-5852-0a9d8542f760",
+            app_version="5.2.0",
+            ab_version="5.2.0",
+            app_hash="4ca841be-5890-6c8e-930d-eb172f8993c3",
             app_platform="ios"
         )
 
 
 ## promotion1_android
-com.pjsekai.kr (4.1.1, kr)
+com.pjsekai.kr (5.2.0, kr)
 ---
 Reported Package: jp.co.colorfulpalette.sekai.promotion1
 
 |                                        app_hash|   app_region|  app_version|   ab_version|
 |------------------------------------------------|-------------|-------------|-------------|
-|            d04ccb65-deab-56d3-3a5a-507a422a9e84|           kr|        4.1.1|        4.1.0|
+|            d87539e5-f3ae-3a16-6591-b681aa604c18|           kr|        5.2.0|        5.2.0|
 
 - CLI Usage:
 
-        sssekai abcache --app-platform android --app-region kr --app-version 4.1.1 --app-appHash d04ccb65-deab-56d3-3a5a-507a422a9e84 --app-abVersion 4.1.0
+        sssekai abcache --app-platform android --app-region kr --app-version 5.2.0 --app-appHash d87539e5-f3ae-3a16-6591-b681aa604c18 --app-abVersion 5.2.0
 
 - Python Usage:
 
@@ -381,25 +381,25 @@ Reported Package: jp.co.colorfulpalette.sekai.promotion1
 
         AbCacheConfig(
             app_region="kr",
-            app_version="4.1.1",
-            ab_version="4.1.0",
-            app_hash="d04ccb65-deab-56d3-3a5a-507a422a9e84",
+            app_version="5.2.0",
+            ab_version="5.2.0",
+            app_hash="d87539e5-f3ae-3a16-6591-b681aa604c18",
             app_platform="android"
         )
 
 
 ## promotion1_ios
-com.pjsekai.kr (4.1.1, kr)
+com.pjsekai.kr (5.2.0, kr)
 ---
 Reported Package: jp.co.colorfulpalette.sekai.enterprise.promotion1
 
 |                                        app_hash|   app_region|  app_version|   ab_version|
 |------------------------------------------------|-------------|-------------|-------------|
-|            d04ccb65-deab-56d3-3a5a-507a422a9e84|           kr|        4.1.1|        4.1.0|
+|            d87539e5-f3ae-3a16-6591-b681aa604c18|           kr|        5.2.0|        5.2.0|
 
 - CLI Usage:
 
-        sssekai abcache --app-platform ios --app-region kr --app-version 4.1.1 --app-appHash d04ccb65-deab-56d3-3a5a-507a422a9e84 --app-abVersion 4.1.0
+        sssekai abcache --app-platform ios --app-region kr --app-version 5.2.0 --app-appHash d87539e5-f3ae-3a16-6591-b681aa604c18 --app-abVersion 5.2.0
 
 - Python Usage:
 
@@ -407,25 +407,25 @@ Reported Package: jp.co.colorfulpalette.sekai.enterprise.promotion1
 
         AbCacheConfig(
             app_region="kr",
-            app_version="4.1.1",
-            ab_version="4.1.0",
-            app_hash="d04ccb65-deab-56d3-3a5a-507a422a9e84",
+            app_version="5.2.0",
+            ab_version="5.2.0",
+            app_hash="d87539e5-f3ae-3a16-6591-b681aa604c18",
             app_platform="ios"
         )
 
 
 ## promotion2_android
-com.pjsekai.kr (4.1.1, kr)
+com.pjsekai.kr (5.2.0, kr)
 ---
 Reported Package: jp.co.colorfulpalette.sekai.promotion2
 
 |                                        app_hash|   app_region|  app_version|   ab_version|
 |------------------------------------------------|-------------|-------------|-------------|
-|            d04ccb65-deab-56d3-3a5a-507a422a9e84|           kr|        4.1.1|        4.1.0|
+|            d87539e5-f3ae-3a16-6591-b681aa604c18|           kr|        5.2.0|        5.2.0|
 
 - CLI Usage:
 
-        sssekai abcache --app-platform android --app-region kr --app-version 4.1.1 --app-appHash d04ccb65-deab-56d3-3a5a-507a422a9e84 --app-abVersion 4.1.0
+        sssekai abcache --app-platform android --app-region kr --app-version 5.2.0 --app-appHash d87539e5-f3ae-3a16-6591-b681aa604c18 --app-abVersion 5.2.0
 
 - Python Usage:
 
@@ -433,25 +433,25 @@ Reported Package: jp.co.colorfulpalette.sekai.promotion2
 
         AbCacheConfig(
             app_region="kr",
-            app_version="4.1.1",
-            ab_version="4.1.0",
-            app_hash="d04ccb65-deab-56d3-3a5a-507a422a9e84",
+            app_version="5.2.0",
+            ab_version="5.2.0",
+            app_hash="d87539e5-f3ae-3a16-6591-b681aa604c18",
             app_platform="android"
         )
 
 
 ## promotion2_ios
-com.pjsekai.kr (4.1.1, kr)
+com.pjsekai.kr (5.2.0, kr)
 ---
 Reported Package: jp.co.colorfulpalette.sekai.enterprise.promotion2
 
 |                                        app_hash|   app_region|  app_version|   ab_version|
 |------------------------------------------------|-------------|-------------|-------------|
-|            d04ccb65-deab-56d3-3a5a-507a422a9e84|           kr|        4.1.1|        4.1.0|
+|            d87539e5-f3ae-3a16-6591-b681aa604c18|           kr|        5.2.0|        5.2.0|
 
 - CLI Usage:
 
-        sssekai abcache --app-platform ios --app-region kr --app-version 4.1.1 --app-appHash d04ccb65-deab-56d3-3a5a-507a422a9e84 --app-abVersion 4.1.0
+        sssekai abcache --app-platform ios --app-region kr --app-version 5.2.0 --app-appHash d87539e5-f3ae-3a16-6591-b681aa604c18 --app-abVersion 5.2.0
 
 - Python Usage:
 
@@ -459,25 +459,25 @@ Reported Package: jp.co.colorfulpalette.sekai.enterprise.promotion2
 
         AbCacheConfig(
             app_region="kr",
-            app_version="4.1.1",
-            ab_version="4.1.0",
-            app_hash="d04ccb65-deab-56d3-3a5a-507a422a9e84",
+            app_version="5.2.0",
+            ab_version="5.2.0",
+            app_hash="d87539e5-f3ae-3a16-6591-b681aa604c18",
             app_platform="ios"
         )
 
 
 ## promotion3_android
-com.pjsekai.kr (4.1.1, kr)
+com.pjsekai.kr (5.2.0, kr)
 ---
 Reported Package: jp.co.colorfulpalette.sekai.promotion3
 
 |                                        app_hash|   app_region|  app_version|   ab_version|
 |------------------------------------------------|-------------|-------------|-------------|
-|            d04ccb65-deab-56d3-3a5a-507a422a9e84|           kr|        4.1.1|        4.1.0|
+|            d87539e5-f3ae-3a16-6591-b681aa604c18|           kr|        5.2.0|        5.2.0|
 
 - CLI Usage:
 
-        sssekai abcache --app-platform android --app-region kr --app-version 4.1.1 --app-appHash d04ccb65-deab-56d3-3a5a-507a422a9e84 --app-abVersion 4.1.0
+        sssekai abcache --app-platform android --app-region kr --app-version 5.2.0 --app-appHash d87539e5-f3ae-3a16-6591-b681aa604c18 --app-abVersion 5.2.0
 
 - Python Usage:
 
@@ -485,25 +485,25 @@ Reported Package: jp.co.colorfulpalette.sekai.promotion3
 
         AbCacheConfig(
             app_region="kr",
-            app_version="4.1.1",
-            ab_version="4.1.0",
-            app_hash="d04ccb65-deab-56d3-3a5a-507a422a9e84",
+            app_version="5.2.0",
+            ab_version="5.2.0",
+            app_hash="d87539e5-f3ae-3a16-6591-b681aa604c18",
             app_platform="android"
         )
 
 
 ## promotion3_ios
-com.pjsekai.kr (4.1.1, kr)
+com.pjsekai.kr (5.2.0, kr)
 ---
 Reported Package: jp.co.colorfulpalette.sekai.enterprise.promotion3
 
 |                                        app_hash|   app_region|  app_version|   ab_version|
 |------------------------------------------------|-------------|-------------|-------------|
-|            d04ccb65-deab-56d3-3a5a-507a422a9e84|           kr|        4.1.1|        4.1.0|
+|            d87539e5-f3ae-3a16-6591-b681aa604c18|           kr|        5.2.0|        5.2.0|
 
 - CLI Usage:
 
-        sssekai abcache --app-platform ios --app-region kr --app-version 4.1.1 --app-appHash d04ccb65-deab-56d3-3a5a-507a422a9e84 --app-abVersion 4.1.0
+        sssekai abcache --app-platform ios --app-region kr --app-version 5.2.0 --app-appHash d87539e5-f3ae-3a16-6591-b681aa604c18 --app-abVersion 5.2.0
 
 - Python Usage:
 
@@ -511,25 +511,25 @@ Reported Package: jp.co.colorfulpalette.sekai.enterprise.promotion3
 
         AbCacheConfig(
             app_region="kr",
-            app_version="4.1.1",
-            ab_version="4.1.0",
-            app_hash="d04ccb65-deab-56d3-3a5a-507a422a9e84",
+            app_version="5.2.0",
+            ab_version="5.2.0",
+            app_hash="d87539e5-f3ae-3a16-6591-b681aa604c18",
             app_platform="ios"
         )
 
 
 ## staging1_android
-com.pjsekai.kr (4.1.1, kr)
+com.pjsekai.kr (5.2.0, kr)
 ---
 Reported Package: jp.co.colorfulpalette.sekai.staging1
 
 |                                        app_hash|   app_region|  app_version|   ab_version|
 |------------------------------------------------|-------------|-------------|-------------|
-|            f110bbe4-3250-36dd-ceb3-b653e808c858|           kr|        4.1.1|        4.1.0|
+|            0ef16531-722c-ed62-76db-8d091ddaf38c|           kr|        5.2.0|        5.2.0|
 
 - CLI Usage:
 
-        sssekai abcache --app-platform android --app-region kr --app-version 4.1.1 --app-appHash f110bbe4-3250-36dd-ceb3-b653e808c858 --app-abVersion 4.1.0
+        sssekai abcache --app-platform android --app-region kr --app-version 5.2.0 --app-appHash 0ef16531-722c-ed62-76db-8d091ddaf38c --app-abVersion 5.2.0
 
 - Python Usage:
 
@@ -537,25 +537,25 @@ Reported Package: jp.co.colorfulpalette.sekai.staging1
 
         AbCacheConfig(
             app_region="kr",
-            app_version="4.1.1",
-            ab_version="4.1.0",
-            app_hash="f110bbe4-3250-36dd-ceb3-b653e808c858",
+            app_version="5.2.0",
+            ab_version="5.2.0",
+            app_hash="0ef16531-722c-ed62-76db-8d091ddaf38c",
             app_platform="android"
         )
 
 
 ## staging1_ios
-com.pjsekai.kr (4.1.1, kr)
+com.pjsekai.kr (5.2.0, kr)
 ---
 Reported Package: jp.co.colorfulpalette.sekai.enterprise.staging1
 
 |                                        app_hash|   app_region|  app_version|   ab_version|
 |------------------------------------------------|-------------|-------------|-------------|
-|            f110bbe4-3250-36dd-ceb3-b653e808c858|           kr|        4.1.1|        4.1.0|
+|            0ef16531-722c-ed62-76db-8d091ddaf38c|           kr|        5.2.0|        5.2.0|
 
 - CLI Usage:
 
-        sssekai abcache --app-platform ios --app-region kr --app-version 4.1.1 --app-appHash f110bbe4-3250-36dd-ceb3-b653e808c858 --app-abVersion 4.1.0
+        sssekai abcache --app-platform ios --app-region kr --app-version 5.2.0 --app-appHash 0ef16531-722c-ed62-76db-8d091ddaf38c --app-abVersion 5.2.0
 
 - Python Usage:
 
@@ -563,25 +563,25 @@ Reported Package: jp.co.colorfulpalette.sekai.enterprise.staging1
 
         AbCacheConfig(
             app_region="kr",
-            app_version="4.1.1",
-            ab_version="4.1.0",
-            app_hash="f110bbe4-3250-36dd-ceb3-b653e808c858",
+            app_version="5.2.0",
+            ab_version="5.2.0",
+            app_hash="0ef16531-722c-ed62-76db-8d091ddaf38c",
             app_platform="ios"
         )
 
 
 ## staging2_android
-com.pjsekai.kr (4.1.1, kr)
+com.pjsekai.kr (5.2.0, kr)
 ---
 Reported Package: jp.co.colorfulpalette.sekai.staging2
 
 |                                        app_hash|   app_region|  app_version|   ab_version|
 |------------------------------------------------|-------------|-------------|-------------|
-|            f110bbe4-3250-36dd-ceb3-b653e808c858|           kr|        4.1.1|        4.1.0|
+|            0ef16531-722c-ed62-76db-8d091ddaf38c|           kr|        5.2.0|        5.2.0|
 
 - CLI Usage:
 
-        sssekai abcache --app-platform android --app-region kr --app-version 4.1.1 --app-appHash f110bbe4-3250-36dd-ceb3-b653e808c858 --app-abVersion 4.1.0
+        sssekai abcache --app-platform android --app-region kr --app-version 5.2.0 --app-appHash 0ef16531-722c-ed62-76db-8d091ddaf38c --app-abVersion 5.2.0
 
 - Python Usage:
 
@@ -589,25 +589,25 @@ Reported Package: jp.co.colorfulpalette.sekai.staging2
 
         AbCacheConfig(
             app_region="kr",
-            app_version="4.1.1",
-            ab_version="4.1.0",
-            app_hash="f110bbe4-3250-36dd-ceb3-b653e808c858",
+            app_version="5.2.0",
+            ab_version="5.2.0",
+            app_hash="0ef16531-722c-ed62-76db-8d091ddaf38c",
             app_platform="android"
         )
 
 
 ## staging2_ios
-com.pjsekai.kr (4.1.1, kr)
+com.pjsekai.kr (5.2.0, kr)
 ---
 Reported Package: jp.co.colorfulpalette.sekai.enterprise.staging2
 
 |                                        app_hash|   app_region|  app_version|   ab_version|
 |------------------------------------------------|-------------|-------------|-------------|
-|            f110bbe4-3250-36dd-ceb3-b653e808c858|           kr|        4.1.1|        4.1.0|
+|            0ef16531-722c-ed62-76db-8d091ddaf38c|           kr|        5.2.0|        5.2.0|
 
 - CLI Usage:
 
-        sssekai abcache --app-platform ios --app-region kr --app-version 4.1.1 --app-appHash f110bbe4-3250-36dd-ceb3-b653e808c858 --app-abVersion 4.1.0
+        sssekai abcache --app-platform ios --app-region kr --app-version 5.2.0 --app-appHash 0ef16531-722c-ed62-76db-8d091ddaf38c --app-abVersion 5.2.0
 
 - Python Usage:
 
@@ -615,25 +615,25 @@ Reported Package: jp.co.colorfulpalette.sekai.enterprise.staging2
 
         AbCacheConfig(
             app_region="kr",
-            app_version="4.1.1",
-            ab_version="4.1.0",
-            app_hash="f110bbe4-3250-36dd-ceb3-b653e808c858",
+            app_version="5.2.0",
+            ab_version="5.2.0",
+            app_hash="0ef16531-722c-ed62-76db-8d091ddaf38c",
             app_platform="ios"
         )
 
 
 ## staging3_android
-com.pjsekai.kr (4.1.1, kr)
+com.pjsekai.kr (5.2.0, kr)
 ---
 Reported Package: jp.co.colorfulpalette.sekai.staging3
 
 |                                        app_hash|   app_region|  app_version|   ab_version|
 |------------------------------------------------|-------------|-------------|-------------|
-|            f110bbe4-3250-36dd-ceb3-b653e808c858|           kr|        4.1.1|        4.1.0|
+|            0ef16531-722c-ed62-76db-8d091ddaf38c|           kr|        5.2.0|        5.2.0|
 
 - CLI Usage:
 
-        sssekai abcache --app-platform android --app-region kr --app-version 4.1.1 --app-appHash f110bbe4-3250-36dd-ceb3-b653e808c858 --app-abVersion 4.1.0
+        sssekai abcache --app-platform android --app-region kr --app-version 5.2.0 --app-appHash 0ef16531-722c-ed62-76db-8d091ddaf38c --app-abVersion 5.2.0
 
 - Python Usage:
 
@@ -641,25 +641,25 @@ Reported Package: jp.co.colorfulpalette.sekai.staging3
 
         AbCacheConfig(
             app_region="kr",
-            app_version="4.1.1",
-            ab_version="4.1.0",
-            app_hash="f110bbe4-3250-36dd-ceb3-b653e808c858",
+            app_version="5.2.0",
+            ab_version="5.2.0",
+            app_hash="0ef16531-722c-ed62-76db-8d091ddaf38c",
             app_platform="android"
         )
 
 
 ## staging3_ios
-com.pjsekai.kr (4.1.1, kr)
+com.pjsekai.kr (5.2.0, kr)
 ---
 Reported Package: jp.co.colorfulpalette.sekai.enterprise.staging3
 
 |                                        app_hash|   app_region|  app_version|   ab_version|
 |------------------------------------------------|-------------|-------------|-------------|
-|            f110bbe4-3250-36dd-ceb3-b653e808c858|           kr|        4.1.1|        4.1.0|
+|            0ef16531-722c-ed62-76db-8d091ddaf38c|           kr|        5.2.0|        5.2.0|
 
 - CLI Usage:
 
-        sssekai abcache --app-platform ios --app-region kr --app-version 4.1.1 --app-appHash f110bbe4-3250-36dd-ceb3-b653e808c858 --app-abVersion 4.1.0
+        sssekai abcache --app-platform ios --app-region kr --app-version 5.2.0 --app-appHash 0ef16531-722c-ed62-76db-8d091ddaf38c --app-abVersion 5.2.0
 
 - Python Usage:
 
@@ -667,9 +667,9 @@ Reported Package: jp.co.colorfulpalette.sekai.enterprise.staging3
 
         AbCacheConfig(
             app_region="kr",
-            app_version="4.1.1",
-            ab_version="4.1.0",
-            app_hash="f110bbe4-3250-36dd-ceb3-b653e808c858",
+            app_version="5.2.0",
+            ab_version="5.2.0",
+            app_hash="0ef16531-722c-ed62-76db-8d091ddaf38c",
             app_platform="ios"
         )
 
